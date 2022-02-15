@@ -8,6 +8,8 @@ I am using industry leading skills and technology like Python, ML, DL, Docker an
 I am also a freelancer.
 As a freelancer, I am currently working on Website development(Consultant's website).
 
+I have kept many of my project repositories as private due to the matter of project confidentiality of the company.
+
 Below are my projects:
 
 1) Image recognition alongwith deployment to AWS using lambda
