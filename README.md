@@ -16,10 +16,10 @@ Below are my projects:
 4) California House Price Prediction alongwith deployment to AWS using Lambda
 5) Mobility analytics (My final year project of engineering)
 6) Flight price Prediction deployed to heroku (Internship project: https://flightpriceprediction-interpro.herokuapp.com/ )
-7) Pure python projects : i.   Birthday Reminder app
-                          ii.  Hangman game
-                          iii. Dice simulator game
-                          iv.  Tic Tac Toe
+7) Pure python projects : i)   Birthday Reminder app
+                          ii)  Hangman game
+                          iii) Dice simulator game
+                          iv)  Tic Tac Toe
 8) Excel movie recommendation 
 9) Analytics Vidhya Hackathon: i) Bigmart analytics
                                ii) HR analytics
