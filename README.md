@@ -21,8 +21,8 @@ Below are my projects:
                           iii. Dice simulator game
                           iv.  Tic Tac Toe
 8) Excel movie recommendation 
-9) Analytics Vidhya Hackathon: i. Bigmart analytics
-                                ii. HR analytics
-                                iii.Job-A-Thon
-10) Machine Hack Hackathon: i. Flight price prediction
-                            ii. Banglore house price prediction    
+9) Analytics Vidhya Hackathon: i) Bigmart analytics
+                               ii) HR analytics
+                               iii) Job-A-Thon
+10) Machine Hack Hackathon: i) Flight price prediction
+                            ii) Banglore house price prediction    
