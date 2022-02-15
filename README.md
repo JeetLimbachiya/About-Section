@@ -25,4 +25,4 @@ Below are my projects:
                                ii) HR analytics
                                iii) Job-A-Thon
 10) Machine Hack Hackathon: i) Flight price prediction
-                            ii) Banglore house price prediction    
+                            ii) Banglore house price prediction     
