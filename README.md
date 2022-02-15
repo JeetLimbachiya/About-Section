@@ -15,7 +15,7 @@ Below are my projects:
 4) Face Mask detection using CNN
 5) License plate detection using YOLO v3
 6) Mobility analytics (My final year project of engineering)
-7) Flight price Prediction (Internship project: https://flightpriceprediction-interpro.herokuapp.com/ )
+7) Flight price Prediction deployed to heroku (Internship project: https://flightpriceprediction-interpro.herokuapp.com/ )
 8) Pure python projects : i.   Birthday Reminder app
                           ii.  Hangman game
                           iii. Dice simulator game
