@@ -12,4 +12,17 @@ Below are my projects:
 1) House Price Prediction
 2) House Price Prediction alongwith deployment to AWS using Lambda
 3) Image recognition alongwith deployment to AWS using lambda
-4) 
+4) Face Mask detection using CNN
+5) License plate detection using YOLO v3
+6) Mobility analytics (My final year project of engineering)
+7) Flight price Prediction (Internship project: https://flightpriceprediction-interpro.herokuapp.com/ )
+8) Pure python projects : i.   Birthday Reminder app
+                          ii.  Hangman game
+                          iii. Dice simulator game
+                          iv.  Tic Tac Toe
+9) Excel movie recommendation 
+10) Analytics Vidhya Hackathon: i. Bigmart analytics
+                                ii. HR analytics
+                                iii.Job-A-Thon
+11) Machine Hack Hackathon: i. Flight price prediction
+                            ii. Banglore house price prediction    
