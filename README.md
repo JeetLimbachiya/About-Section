@@ -3,7 +3,7 @@
 I am an IT Engineer working as Product Development Engineer under Video Surveillence industry leading organization.
 My responsibility as product development engineer is building DL/AI models and deploy it to AWS for further usage on the edge.
 
-I am using industry leading skills and technology like ML, DL, Docker and AWS.
+I am using industry leading skills and technology like Python, ML, DL, Docker and AWS.
 
 I am also a freelancer.
 As a freelancer, I am currently working on Website development(Consultant's website).
