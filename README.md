@@ -6,14 +6,15 @@ My responsibility as product development engineer is building DL/AI models and d
 I am using industry leading skills and technology like Python, ML, DL, Docker and AWS.
 
 I am also a freelancer.
+
 Freelancing projects:
 1) Client's website: https://bren.llc/
 2) MLOPS pipeline through Jenkins on the cloud.
 3) Diagram as a code for architectural chart.
 4) Storj for testing a network to store a node.(DCS).
 5) working on clients website: https://www.consultanubhav.com/
-6) 
-As a freelancer, I am currently working on Website development(Consultant's website).
+6) AWS cloudwatch alertmanager for monitoring server status on grafana. 
+
 
 I have kept many of my project repositories as private due to the matter of project confidentiality of the company.
 
