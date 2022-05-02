@@ -6,6 +6,13 @@ My responsibility as product development engineer is building DL/AI models and d
 I am using industry leading skills and technology like Python, ML, DL, Docker and AWS.
 
 I am also a freelancer.
+Freelancing projects:
+1) Client's website: https://bren.llc/
+2) MLOPS pipeline through Jenkins on the cloud.
+3) Diagram as a code for architectural chart.
+4) Storj for testing a network to store a node.(DCS).
+5) working on clients website: https://www.consultanubhav.com/
+6) 
 As a freelancer, I am currently working on Website development(Consultant's website).
 
 I have kept many of my project repositories as private due to the matter of project confidentiality of the company.
@@ -13,7 +20,7 @@ I have kept many of my project repositories as private due to the matter of proj
 Below are my projects:
 
 1) Image recognition alongwith deployment to AWS using lambda
-2) Face Mask detection using CNN
+2) Face Mask detection using CNN on the cloud
 3) License plate detection using YOLO v3
 4) California House Price Prediction alongwith deployment to AWS using Lambda
 5) Mobility analytics (My final year project of engineering)
@@ -28,3 +35,4 @@ Below are my projects:
                                iii) Job-A-Thon
 10) Machine Hack Hackathon: i) Flight price prediction
                             ii) Banglore house price prediction     
+11) Face Redaction/Blurring using computer vision deployed to cloud.
